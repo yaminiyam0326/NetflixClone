@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCCPA6sBG-Tg91mqn_wEUAJ1NH2HMIeDPc",
+  apiKey: "",
   authDomain: "netflix-clone-bdf48.firebaseapp.com",
   projectId: "netflix-clone-bdf48",
   storageBucket: "netflix-clone-bdf48.appspot.com",
